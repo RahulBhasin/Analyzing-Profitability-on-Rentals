@@ -13,7 +13,7 @@ Analyzing Profitability on short Term Rentals using Air BnB and Zillow data.
 - Comparison of Break even time and YoY profits for different zipcodes
 - Final Recommendations
 
-*Please look html version for better readability, as some background gradients are not visible in the ipynb
+*Please look [html version](http://htmlpreview.github.com/?https://github.com/Raseshgarg/Analyzing-Profitability-on-Rentals-/blob/master/Case_study_BnB_Zillow.html) for better readability, as some background gradients are not visible in the ipyn
 
 
 
